@@ -1,4 +1,7 @@
 # odin-recipes
 First project from TOP
 
-After finishing this project, come back here and write what you learned.
+Simple HTML page with recipes taken from www.allrecipes.com.
+Each recipe is in an independent page, and the main page contains links
+to each of these pages.
+
